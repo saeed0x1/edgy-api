@@ -1,0 +1,28 @@
+{
+  "name": "deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "edgy":"node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerodayrat/edgyapi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zerodayrat/edgyapi/issues"
+  },
+  "homepage": "https://github.com/zerodayrat/edgyapi#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-rate-limit": "^6.0.5"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.0.23"
+  }
+}

@@ -28,6 +28,6 @@ const axios = require("axios");
 ```
 
 ## To Do
-- [x] Creating a cli
+- [x] <a href="https://github.com/zerodayrat/edgy-cli">Creating a cli version of it</a>
 - [ ] Query based searches
 - [ ] Joke Submission
